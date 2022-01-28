@@ -1,7 +1,7 @@
 # Training-demo
 This repository is a demo for using git-hub and it's features
 
-# Concepts covered so far
+# Concepts covered so far in Todays training session!
 * About Version control System
 * Different types of VCS
 * Distributed version control system
