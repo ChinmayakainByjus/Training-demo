@@ -1,1 +1,1 @@
-This is a dummy licence file used for a example.
+This is a dummy licence file used for a example, for github.
