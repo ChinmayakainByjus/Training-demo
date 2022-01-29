@@ -13,4 +13,4 @@ This repository is a demo for using git-hub and it's features
 - Git hub features
 - git PR and merging to main branche and creating new branches
 - generating ssh key on local machine, creating a local workspace, cloning the git repository on local machine.
-- pushing the modified code from the local repository to remote repository using cli.
+- pushing the modified code from the local repository to remote repository using vscode.
